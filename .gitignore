@@ -6,3 +6,4 @@ __pycache__/
 *.pyc
 Lecture/
 CapturedImage/
+Week2_Filtering/processed_pics/
