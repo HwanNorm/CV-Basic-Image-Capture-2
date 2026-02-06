@@ -8,7 +8,7 @@ class GaussianProcessor:
     # Topic: Introduction to Computer Vision, Images as Functions & Filtering
     # =============================================================================
     
-    def apply_gaussian_filter(self, img, kernel_size=(5, 5), sigma=1.0):
+    def apply_gaussian_filter(self, img, kernel_size=(30, 30), sigma=10.0):
         """
         Apply Gaussian filtering to reduce noise
         

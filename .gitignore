@@ -1,2 +1,8 @@
 venv/
 note
+Assignment 2.docx
+venv_use.txt
+__pycache__/
+*.pyc
+Lecture/
+CapturedImage/
